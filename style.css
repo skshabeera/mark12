@@ -6,7 +6,7 @@
 
 .quiz-form{
     text-align: center;
-    font-size: large;
+    font-size: x-large;
 }
 h1{
     text-align: center;
@@ -15,7 +15,7 @@ h1{
     display: block;
     margin-top:1 rem ;
     margin: auto;
-    background-color:whitesmoke;
+    background-color:palegoldenrod;
     color:var(--primary-color);
     border-color:black;
     border-width:medium;
@@ -29,6 +29,10 @@ h1{
     background-color: aqua;
 
 } 
+#output{
+    text-align: center;
+    font-size: x-large;
+}
 
 
 

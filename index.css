@@ -1,11 +1,11 @@
 :root{
-    --primary-color:black;
+    --primary-color:blueviolet;
     --primary-green:green;
 
 }
 body{
-    background-color:royalblue;
-    color:aqua;
+    background-color:palegoldenrod;
+    color:black;
     margin: 0px;
     font-size:large;
 }

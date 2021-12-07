@@ -1,11 +1,11 @@
 :root{
-    --primary-color:black;
+    --primary-color:blueviolet;
     --primary-green:green;
 
 }
 body{
-    background-color:royalblue;
-    color:aqua;
+    background-color:whitesmoke;
+    color:black;
     margin: 0px;
     font-size:large;
 }
@@ -58,9 +58,7 @@ h1{
 } 
 
 
-/* .question-container{
-    text-align: center;
-} */
+
 h2{
     text-align: center;
 }
@@ -68,10 +66,6 @@ h3{
 text-align: center;
 }
 
-
-/* .margin-md {
-    margin: 1rem;
-}  */
 
 .container{
     width:100%;
