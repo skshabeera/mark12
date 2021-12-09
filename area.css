@@ -13,7 +13,7 @@ h1{
 
 }
 .area-container{
-    width: 40%;
+    width: 50%;
     margin: auto;
     font-size:x-large ;
     text-align: middle;
@@ -22,13 +22,16 @@ input,label{
     display:block;
     font-size:x-large;
     text-align: center;
+    margin: auto;
 
 }
 input{
     width: 80%;
     padding:7px 5px;
     margin:8px 2px;
-    box-sizing:auto;
+    box-sizing:border-box;
+    text-align: center;
+    display: block;
 }
 h1{
     text-align: center;
@@ -115,7 +118,7 @@ h1{
 
 .navigation .nav-pills {
     text-align: right;
-    padding: 14px 60px;
+    padding: 10px 30px;
 
 }
 
@@ -130,3 +133,13 @@ h1{
     background-color: darkmagenta;
 
 }
+.list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0rem;
+}
+ 

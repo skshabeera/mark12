@@ -106,7 +106,7 @@ text-align: center;
 
 .navigation .nav-pills {
     text-align: right;
-    padding: 14px 60px;
+    padding: 10px 40px;
 
 }
 
@@ -121,6 +121,11 @@ text-align: center;
     background-color: darkmagenta;
 
 }
-#submit-answer-btn{
+/* #submit-answer-btn{
     text-align: center;
+} */
+.list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
 }
+
